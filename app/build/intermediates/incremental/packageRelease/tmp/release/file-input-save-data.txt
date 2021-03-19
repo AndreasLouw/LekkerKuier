@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Wed Jan 09 22:39:36 CAT 2019
+0.baseType=DIRECTORY
+0.base=C\:\\Users\\Andreas\\Documents\\Projekte\\LekkerKuier\\app\\build\\intermediates\\transforms\\dexMerger\\release\\0
+0.path=classes.dex
+0.set=DEX
+count=1
